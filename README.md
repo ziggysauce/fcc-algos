@@ -1,3 +1,3 @@
 # fcc-algos
 
-Solutions to Intermediate and Advanced Algorithm Scripting through FCC
+Solutions to Algorithm Scripting through FCC
